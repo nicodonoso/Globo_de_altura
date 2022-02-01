@@ -1,6 +1,15 @@
 ## Globo_de_altura
 Descripción de un proyecto de lanzamiento de globo de altura
 
+# Paracaidas 
+Hicimos algunos cálculos y encontramos que con un diámetro de 1 metro era suficiente. Utilizamos un paracaída de ejercicio como el de la imagen:
+![Captura de pantalla de 2022-01-31 23-34-03](https://user-images.githubusercontent.com/13879560/151905122-1be54c90-f225-4802-ae92-9051a8636357.png)
+
+Fue necesario hacer algunas modificaciones para poder colgar todo desde el globo.
+
+# Globo
+Utilizamos un globo de 300 gramos comprado en https://www.kaymont.com/balloons 
+
 # APRS con el equipo ligth APRS
 En un ARDUINO IDE se debe de cargar el programa para globos de altura (HAB) en donde se debe de configurar la señal de llamada y el tiempo entre cada transmisión. 
 El código arduino del proyecto completo encuentra en https://github.com/lightaprs/LightAPRS-1.0
