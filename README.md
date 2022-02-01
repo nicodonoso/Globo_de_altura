@@ -10,6 +10,7 @@ El lightAPRS se puede comprar en http://shop.qrp-labs.com/lightaprs
 
 # Convertir imagen tomada por la raspberry pi en SSTV
 Primero clonamos lo necesario para convertir imagenes a SSTV, debemos de abrir una terminal en la raspberry y dar el comando
+
 git clone https://github.com/AgriVision/pisstv
 
 Luego se deben de actualizar y instalar lo siguiente:
